@@ -1,3 +1,2 @@
-# Commutative Algebra AM Solutions
-still working on these
-All errors are my own, email: Lsfhv@protonmail.com
+# Commutative Algebra Solutions
+corrections appreciated, email: Lsfhv@protonmail.com
