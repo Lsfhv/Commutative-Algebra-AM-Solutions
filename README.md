@@ -1,2 +1,2 @@
-# Commutative Algebra Solutions
-corrections appreciated, email: Lsfhv@protonmail.com
+# Commutative Algebra A&M Solutions
+working on these, corrections are really appreciated, email: Lsfhv@protonmail.com
